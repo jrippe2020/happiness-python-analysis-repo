@@ -20,6 +20,7 @@ This project explores factors that influence happiness around the world using bo
 6. How has the US changed in rankings for different factors over the last 10 years?
 7. What factors best explain variation in how people feel their lives are going?
 8. What is a person's life evaluation score likely to be based on the country they grew up in and how high that country ranks for each category in the last month?
+
 *My dataset*
 1. What are the most commonly practiced habits on days where my happiness rating is in the upper quartile?
 2. How well does each habit correlate with my happiness rating?
